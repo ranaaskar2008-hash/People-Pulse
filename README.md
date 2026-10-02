@@ -5,3 +5,7 @@ People Pulse is an HR analytics project analyzing1,470 employees to explore the 
 
 ### Excel . Power BI . Phyton . SQL .VS
  </div>
+
+ ---
+ 
+ 
